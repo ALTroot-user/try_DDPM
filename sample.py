@@ -32,3 +32,4 @@ for i, ax in enumerate(axs.flat):
 plt.savefig("a.png")
 plt.close()
 print()
+print("hello")
